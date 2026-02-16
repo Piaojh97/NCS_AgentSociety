@@ -1,0 +1,8 @@
+# 环保大使赛道 opensource 依赖
+# agentsociety 需单独安装（赛事/组织方提供）
+
+python-dotenv>=1.0.0
+numpy>=1.20.0
+pydantic>=2.0.0
+json-repair>=0.7.0
+jsonc>=0.1.0
